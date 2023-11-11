@@ -1,0 +1,19 @@
+.products {
+display:flex ;
+
+margin :2%  auto ;
+background-color:azure
+  }
+ 
+
+  ul  {flex-wrap: wrap;
+    flex-direction: row;
+    list-style-type: none;
+   
+}
+.sp1 { display:bloc;
+    margin:0 5px ;
+    ;
+    font-weight: bold;
+    font-size:30px;
+}
